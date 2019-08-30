@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to bottom, #3494e6 0%, #EC6EAD 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    height: 100%;
+    
+}
+
+.site-header{
+    font-weight: 300;
+    background: linear-gradient(to bottom, #8E2DE2 0%, #4A00E0 100%);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
